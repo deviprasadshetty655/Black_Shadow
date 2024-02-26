@@ -1,6 +1,6 @@
 x#!/bin/bash
 
-#created by Black_shadowy
+#created by Black_shadow
 
 # Ask for the path to scan
 read -p "Enter the path to scan: " directory
